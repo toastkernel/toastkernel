@@ -1,16 +1,47 @@
-## Hi there 👋
+# `toastkernel`
 
-<!--
-**toastkernel/toastkernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+╭──────────────────────────────────────────────╮
+│  TOASTKERNEL                                 │
+│  ──────────────────────────────────────────  │
+│  Student • Linux • macOS • Coding • Hardware │
+╰──────────────────────────────────────────────╯
+```
 
-Here are some ideas to get you started:
+[![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square\&logo=linux\&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square\&logo=apple\&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-000000?style=flat-square\&logo=python\&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+$ whoami
+
+toastkernel
+
+$ interests
+
+Linux ── macOS ── ThinkPads ── Coding
+Hardware ── Terminals ── Python ── C++
+
+$ status
+
+[ ONLINE ]  learning • building • breaking • fixing
+```
+
+### `>_ currently`
+
+**Learning to code · Python, C++, Linux · Building things · boot.dev**
+
+```text
+┌─ ~/toastkernel ───────────────────────┐
+│                                       │
+│  [▓▓▓▓▓▓▓▓▓░]  always learning        │
+│                                       │
+└───────────────────────────────────────┘
+```
+
+> **Learn. Build. Break. Fix. Repeat.**
+
+---
+
+<sub>⚡ `toastkernel` • powered by the wish to make it out soon.</sub>
